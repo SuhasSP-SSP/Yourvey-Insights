@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="images">
+    <file>background.jpg</file>
+    <file>finishQuestion.png</file>
+    <file>bg3.jpg</file>
+    <file>loader.gif</file>
+    <file>closeEye.png</file>
+    <file>openEye.png</file>
+    <file>refresh.svg</file>
+    <file>addQuestion.png</file>
+    <file>home.png</file>
+    <file>left.png</file>
+    <file>right.png</file>
+    <file>window_icon.png</file>
+    <file>select_folder.png</file>
+  </qresource>
+</RCC>
